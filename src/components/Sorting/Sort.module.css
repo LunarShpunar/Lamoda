@@ -1,0 +1,13 @@
+
+.sort-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin: 20px 0;
+  }
+  
+  .sort-buttons .active {
+    background-color: #007bff;
+    color: white;
+  }
+  
